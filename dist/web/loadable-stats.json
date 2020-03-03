@@ -1,0 +1,916 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.41.6",
+  "hash": "9c9dcbfc1be90892548a",
+  "publicPath": "/static/",
+  "outputPath": "/Users/alextkachuk/Documents/codes/articles/react-ssr/dist/web",
+  "assetsByChunkName": {
+    "main~bfe0ed74": [
+      "main~bfe0ed74.6eb4827b.css",
+      "0-6eb4827b.js"
+    ],
+    "pages-about-AboutPage~6d617b0a": [
+      "1.9264adc1.css",
+      "1-9264adc1.js"
+    ],
+    "pages-contact-ContactPage~add718e3": [
+      "2.065369ee.css",
+      "2-065369ee.js"
+    ],
+    "pages-home-HomePage~f075b844": [
+      "3.612c3004.css",
+      "3-612c3004.js"
+    ],
+    "vendors~main~9b1fde68": "4-363d418f.js",
+    "vendors~pages-home-HomePage~9b1fde68": "5-3323c5af.js"
+  },
+  "assets": [
+    {
+      "name": "0-6eb4827b.js",
+      "size": 7261,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main~bfe0ed74"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "1-9264adc1.js",
+      "size": 406,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "pages-about-AboutPage~6d617b0a"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "1.9264adc1.css",
+      "size": 33,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "pages-about-AboutPage~6d617b0a"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "2-065369ee.js",
+      "size": 641,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "pages-contact-ContactPage~add718e3"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "2.065369ee.css",
+      "size": 38,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "pages-contact-ContactPage~add718e3"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "3-612c3004.js",
+      "size": 35800,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "pages-home-HomePage~f075b844"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "3.612c3004.css",
+      "size": 0,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "pages-home-HomePage~f075b844"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "4-363d418f.js",
+      "size": 285602,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "vendors~main~9b1fde68"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "4-363d418f.js.LICENSE.txt",
+      "size": 1037,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "5-3323c5af.js",
+      "size": 36584,
+      "chunks": [
+        5
+      ],
+      "chunkNames": [
+        "vendors~pages-home-HomePage~9b1fde68"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "android-chrome-192x192.png",
+      "size": 13891,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "android-chrome-512x512.png",
+      "size": 76492,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "apple-touch-icon.png",
+      "size": 14492,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "favicon-16x16.png",
+      "size": 524,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "favicon-32x32.png",
+      "size": 1087,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "favicon.ico",
+      "size": 15406,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/kranky-v10-latin-regular.eot",
+      "size": 86016,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/kranky-v10-latin-regular.ttf",
+      "size": 190508,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/kranky-v10-latin-regular.woff",
+      "size": 90936,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/kranky-v10-latin-regular.woff2",
+      "size": 76028,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/press-start-2p-v8-latin-regular.eot",
+      "size": 14688,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/press-start-2p-v8-latin-regular.ttf",
+      "size": 41036,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/press-start-2p-v8-latin-regular.woff",
+      "size": 15056,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/press-start-2p-v8-latin-regular.woff2",
+      "size": 12360,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/fonts/kranky-v10-latin-regular.svg",
+      "size": 700996,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/fonts/press-start-2p-v8-latin-regular.svg",
+      "size": 31002,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/icons/email.svg",
+      "size": 408,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/C3PO.jpg",
+      "size": 135735,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/DexterJettster.jpg",
+      "size": 14622,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/K2so.jpg",
+      "size": 36424,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/Kitonak.jpg",
+      "size": 14965,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/Kushiban.jpg",
+      "size": 17662,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/Oola.jpg",
+      "size": 35464,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/Padme-Amidala.jpg",
+      "size": 52207,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/R2D2.jpg",
+      "size": 155823,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/Rodian.jpg",
+      "size": 15789,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/Sebulba.jpg",
+      "size": 54191,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/admiralHoldo.jpg",
+      "size": 29967,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/bb-8.jpg",
+      "size": 16382,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/bobaFett.jpg",
+      "size": 38306,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/chew.jpg",
+      "size": 57646,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/darth-maul.jpg",
+      "size": 55416,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/darthVader.jpg",
+      "size": 50986,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/finn.jpg",
+      "size": 40485,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/hanSolo.jpg",
+      "size": 43431,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/jaba.jpg",
+      "size": 50636,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/kyloRen.jpg",
+      "size": 31382,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/lando.jpg",
+      "size": 39032,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/leia.jpg",
+      "size": 173935,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/luke.jpg",
+      "size": 28587,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/maceWindu.jpg",
+      "size": 33584,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/obi-kenobi.jpg",
+      "size": 39803,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/poeDameron.jpg",
+      "size": 46498,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/qira.jpg",
+      "size": 34332,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/rey.jpg",
+      "size": 37006,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/theEmperor.jpg",
+      "size": 30646,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/yoda.jpg",
+      "size": 42677,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "index.html",
+      "size": 1301,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "main~bfe0ed74.6eb4827b.css",
+      "size": 193352,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main~bfe0ed74"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "robots.txt",
+      "size": 23,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "site.webmanifest",
+      "size": 326,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "main": {
+      "chunks": [
+        4,
+        0
+      ],
+      "assets": [
+        "4-363d418f.js",
+        "main~bfe0ed74.6eb4827b.css",
+        "0-6eb4827b.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        4,
+        0
+      ],
+      "assets": [
+        "4-363d418f.js",
+        "main~bfe0ed74.6eb4827b.css",
+        "0-6eb4827b.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-home-HomePage": {
+      "chunks": [
+        5,
+        3
+      ],
+      "assets": [
+        "5-3323c5af.js",
+        "3.612c3004.css",
+        "3-612c3004.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-about-AboutPage": {
+      "chunks": [
+        1
+      ],
+      "assets": [
+        "1.9264adc1.css",
+        "1-9264adc1.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-contact-ContactPage": {
+      "chunks": [
+        2
+      ],
+      "assets": [
+        "2.065369ee.css",
+        "2-065369ee.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": [
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/static/",
+      "outputPath": "/Users/alextkachuk/Documents/codes/articles/react-ssr/dist/web",
+      "assetsByChunkName": {},
+      "assets": [
+        {
+          "name": "index.html",
+          "size": 546576,
+          "chunks": [
+            0
+          ],
+          "chunkNames": [],
+          "info": {},
+          "emitted": false
+        }
+      ],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "undefined": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "index.html"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "undefined": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "index.html"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "html-webpack-plugin for \"index.html\""
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/static/",
+      "outputPath": "/Users/alextkachuk/Documents/codes/articles/react-ssr/dist/web",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!../node_modules/postcss-loader/src/index.js!components/style.scss"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/static/",
+      "outputPath": "/Users/alextkachuk/Documents/codes/articles/react-ssr/dist/web",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!../node_modules/postcss-loader/src/index.js!main.scss"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/static/",
+      "outputPath": "/Users/alextkachuk/Documents/codes/articles/react-ssr/dist/web",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!../node_modules/postcss-loader/src/index.js!pages/about/styles.scss"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/static/",
+      "outputPath": "/Users/alextkachuk/Documents/codes/articles/react-ssr/dist/web",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!../node_modules/postcss-loader/src/index.js!pages/contact/styles.scss"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/static/",
+      "outputPath": "/Users/alextkachuk/Documents/codes/articles/react-ssr/dist/web",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!../node_modules/postcss-loader/src/index.js!pages/home/styles.scss"
+    }
+  ]
+}
