@@ -1,1 +1,0 @@
-exports.ids=[1],exports.modules={10:function(e,t,a){"use strict";a.r(t);var n=a(0),i=a.n(n);a(51);t.default=function(){return i.a.createElement("div",{className:"AboutPage__root container is-fluid"},i.a.createElement("div",{className:"notification"},i.a.createElement("h1",{className:"title"},"About"),"Something about us"))}},51:function(e,t,a){}};

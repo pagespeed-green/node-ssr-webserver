@@ -1,32 +1,32 @@
 {
   "errors": [],
   "warnings": [],
-  "version": "4.41.6",
-  "hash": "8aabab862f98ba7153b3",
+  "version": "4.42.0",
+  "hash": "2baa5a6040a8b722bdb6",
   "publicPath": "/static/",
-  "outputPath": "/Users/alextkachuk/Documents/codes/articles/react-ssr/dist/node",
+  "outputPath": "/home/alex/Codes/Articles/How To Improve React App Performance with SSR and Rust/react-ssr/dist/node",
   "assetsByChunkName": {
     "main~bfe0ed74": [
-      "main~bfe0ed74.8cd48333.css",
-      "0-8cd48333.js"
+      "main~bfe0ed74.b2eeacd9.css",
+      "0-b2eeacd9.js"
     ],
     "pages-about-AboutPage~6d617b0a": [
-      "1.3f0968c7.css",
-      "1-3f0968c7.js"
+      "1.ed4d69c9.css",
+      "1-ed4d69c9.js"
     ],
     "pages-contact-ContactPage~add718e3": [
-      "2.591e1a86.css",
-      "2-591e1a86.js"
+      "2.1b168302.css",
+      "2-1b168302.js"
     ],
     "pages-home-HomePage~f075b844": [
-      "3.f406237a.css",
-      "3-f406237a.js"
+      "3.97b1b9aa.css",
+      "3-97b1b9aa.js"
     ]
   },
   "assets": [
     {
-      "name": "0-8cd48333.js",
-      "size": 6429,
+      "name": "0-b2eeacd9.js",
+      "size": 6472,
       "chunks": [
         0
       ],
@@ -39,7 +39,7 @@
       "emitted": false
     },
     {
-      "name": "1-3f0968c7.js",
+      "name": "1-ed4d69c9.js",
       "size": 349,
       "chunks": [
         1
@@ -53,7 +53,7 @@
       "emitted": false
     },
     {
-      "name": "1.3f0968c7.css",
+      "name": "1.ed4d69c9.css",
       "size": 33,
       "chunks": [
         1
@@ -67,7 +67,7 @@
       "emitted": false
     },
     {
-      "name": "2-591e1a86.js",
+      "name": "2-1b168302.js",
       "size": 582,
       "chunks": [
         2
@@ -81,7 +81,7 @@
       "emitted": false
     },
     {
-      "name": "2.591e1a86.css",
+      "name": "2.1b168302.css",
       "size": 38,
       "chunks": [
         2
@@ -95,8 +95,8 @@
       "emitted": false
     },
     {
-      "name": "3-f406237a.js",
-      "size": 35626,
+      "name": "3-97b1b9aa.js",
+      "size": 44666,
       "chunks": [
         3
       ],
@@ -109,8 +109,8 @@
       "emitted": false
     },
     {
-      "name": "3.f406237a.css",
-      "size": 0,
+      "name": "3.97b1b9aa.css",
+      "size": 46,
       "chunks": [
         3
       ],
@@ -315,6 +315,14 @@
       "emitted": false
     },
     {
+      "name": "images/public/images/QuiGonJinn.jpg",
+      "size": 41845,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
       "name": "images/public/images/R2D2.jpg",
       "size": 155823,
       "chunks": [],
@@ -333,6 +341,14 @@
     {
       "name": "images/public/images/Sebulba.jpg",
       "size": 54191,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/admiral-motti.jpg",
+      "size": 33904,
       "chunks": [],
       "chunkNames": [],
       "info": {},
@@ -387,6 +403,38 @@
       "emitted": false
     },
     {
+      "name": "images/public/images/ddmiralFirmusPiett.jpg",
+      "size": 34156,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/dooku.jpg",
+      "size": 46987,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/eV9D9.jpg",
+      "size": 52068,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/enfys-nest.jpg",
+      "size": 34133,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
       "name": "images/public/images/finn.jpg",
       "size": 40485,
       "chunks": [],
@@ -405,6 +453,14 @@
     {
       "name": "images/public/images/jaba.jpg",
       "size": 50636,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/jangoFett.jpg",
+      "size": 45185,
       "chunks": [],
       "chunkNames": [],
       "info": {},
@@ -451,6 +507,14 @@
       "emitted": false
     },
     {
+      "name": "images/public/images/monMothma.jpg",
+      "size": 50155,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
       "name": "images/public/images/obi-kenobi.jpg",
       "size": 39803,
       "chunks": [],
@@ -461,6 +525,14 @@
     {
       "name": "images/public/images/poeDameron.jpg",
       "size": 46498,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/poster.jpg",
+      "size": 728568,
       "chunks": [],
       "chunkNames": [],
       "info": {},
@@ -491,6 +563,22 @@
       "emitted": false
     },
     {
+      "name": "images/public/images/uncleOwen.jpg",
+      "size": 57165,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/public/images/wedgeAntilles.jpg",
+      "size": 40590,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
       "name": "images/public/images/yoda.jpg",
       "size": 42677,
       "chunks": [],
@@ -507,8 +595,8 @@
       "emitted": false
     },
     {
-      "name": "main~bfe0ed74.8cd48333.css",
-      "size": 193352,
+      "name": "main~bfe0ed74.b2eeacd9.css",
+      "size": 193391,
       "chunks": [
         0
       ],
@@ -544,8 +632,8 @@
         0
       ],
       "assets": [
-        "main~bfe0ed74.8cd48333.css",
-        "0-8cd48333.js"
+        "main~bfe0ed74.b2eeacd9.css",
+        "0-b2eeacd9.js"
       ],
       "children": {},
       "childAssets": {}
@@ -557,8 +645,8 @@
         0
       ],
       "assets": [
-        "main~bfe0ed74.8cd48333.css",
-        "0-8cd48333.js"
+        "main~bfe0ed74.b2eeacd9.css",
+        "0-b2eeacd9.js"
       ],
       "children": {},
       "childAssets": {}
@@ -568,8 +656,8 @@
         3
       ],
       "assets": [
-        "3.f406237a.css",
-        "3-f406237a.js"
+        "3.97b1b9aa.css",
+        "3-97b1b9aa.js"
       ],
       "children": {},
       "childAssets": {}
@@ -579,8 +667,8 @@
         1
       ],
       "assets": [
-        "1.3f0968c7.css",
-        "1-3f0968c7.js"
+        "1.ed4d69c9.css",
+        "1-ed4d69c9.js"
       ],
       "children": {},
       "childAssets": {}
@@ -590,8 +678,8 @@
         2
       ],
       "assets": [
-        "2.591e1a86.css",
-        "2-591e1a86.js"
+        "2.1b168302.css",
+        "2-1b168302.js"
       ],
       "children": {},
       "childAssets": {}
@@ -609,7 +697,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/static/",
-      "outputPath": "/Users/alextkachuk/Documents/codes/articles/react-ssr/dist/node",
+      "outputPath": "/home/alex/Codes/Articles/How To Improve React App Performance with SSR and Rust/react-ssr/dist/node",
       "assetsByChunkName": {},
       "assets": [
         {
@@ -662,7 +750,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/static/",
-      "outputPath": "/Users/alextkachuk/Documents/codes/articles/react-ssr/dist/node",
+      "outputPath": "/home/alex/Codes/Articles/How To Improve React App Performance with SSR and Rust/react-ssr/dist/node",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -698,13 +786,13 @@
         }
       },
       "children": [],
-      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!../node_modules/postcss-loader/src/index.js!components/style.scss"
+      "name": "mini-css-extract-plugin ../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/css-loader/dist/cjs.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/sass-loader/dist/cjs.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/postcss-loader/src/index.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/src/components/style.scss"
     },
     {
       "errors": [],
       "warnings": [],
       "publicPath": "/static/",
-      "outputPath": "/Users/alextkachuk/Documents/codes/articles/react-ssr/dist/node",
+      "outputPath": "/home/alex/Codes/Articles/How To Improve React App Performance with SSR and Rust/react-ssr/dist/node",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -740,13 +828,13 @@
         }
       },
       "children": [],
-      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!../node_modules/postcss-loader/src/index.js!main.scss"
+      "name": "mini-css-extract-plugin ../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/css-loader/dist/cjs.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/sass-loader/dist/cjs.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/postcss-loader/src/index.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/src/main.scss"
     },
     {
       "errors": [],
       "warnings": [],
       "publicPath": "/static/",
-      "outputPath": "/Users/alextkachuk/Documents/codes/articles/react-ssr/dist/node",
+      "outputPath": "/home/alex/Codes/Articles/How To Improve React App Performance with SSR and Rust/react-ssr/dist/node",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -782,13 +870,13 @@
         }
       },
       "children": [],
-      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!../node_modules/postcss-loader/src/index.js!pages/about/styles.scss"
+      "name": "mini-css-extract-plugin ../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/css-loader/dist/cjs.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/sass-loader/dist/cjs.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/postcss-loader/src/index.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/src/pages/about/styles.scss"
     },
     {
       "errors": [],
       "warnings": [],
       "publicPath": "/static/",
-      "outputPath": "/Users/alextkachuk/Documents/codes/articles/react-ssr/dist/node",
+      "outputPath": "/home/alex/Codes/Articles/How To Improve React App Performance with SSR and Rust/react-ssr/dist/node",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -824,13 +912,13 @@
         }
       },
       "children": [],
-      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!../node_modules/postcss-loader/src/index.js!pages/contact/styles.scss"
+      "name": "mini-css-extract-plugin ../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/css-loader/dist/cjs.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/sass-loader/dist/cjs.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/postcss-loader/src/index.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/src/pages/contact/styles.scss"
     },
     {
       "errors": [],
       "warnings": [],
       "publicPath": "/static/",
-      "outputPath": "/Users/alextkachuk/Documents/codes/articles/react-ssr/dist/node",
+      "outputPath": "/home/alex/Codes/Articles/How To Improve React App Performance with SSR and Rust/react-ssr/dist/node",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -866,7 +954,7 @@
         }
       },
       "children": [],
-      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!../node_modules/postcss-loader/src/index.js!pages/home/styles.scss"
+      "name": "mini-css-extract-plugin ../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/css-loader/dist/cjs.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/sass-loader/dist/cjs.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/node_modules/postcss-loader/src/index.js!../../../How To Improve React App Performance with SSR and Rust/react-ssr/src/pages/home/styles.scss"
     }
   ]
 }
